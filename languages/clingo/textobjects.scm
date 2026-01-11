@@ -1,1 +1,1 @@
-(statement) @function.outer
+../../tree-sitter-clingo/queries/textobjects.scm

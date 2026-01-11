@@ -1,0 +1,3 @@
+[submodule "tree-sitter-clingo"]
+	path = tree-sitter-clingo
+	url = https://github.com/potassco/tree-sitter-clingo

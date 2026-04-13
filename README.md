@@ -5,3 +5,9 @@ Extension for the Zed IDE to support clingo highlihgting via the [tree-sitter-cl
 ## Gallery
 
 <img src="static/example.jpg" width="1000px">
+
+## Update Submodules
+
+```bash
+git@github.com:hweichelt/zed-clingo-extension.git
+```

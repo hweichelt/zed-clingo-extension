@@ -9,5 +9,5 @@ Extension for the Zed IDE to support clingo highlihgting via the [tree-sitter-cl
 ## Update Submodules
 
 ```bash
-git@github.com:hweichelt/zed-clingo-extension.git
+git submodule update --init --recursive
 ```
